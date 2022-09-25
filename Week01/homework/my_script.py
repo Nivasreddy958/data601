@@ -1,2 +1,0 @@
-
-print('Nivas reddy')
